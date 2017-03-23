@@ -1,4 +1,4 @@
-# ReduxSimpleStarter
+# ReduxSimpleStarter Thanks To Stephen Grider!
 
 
 
